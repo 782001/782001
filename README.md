@@ -8,7 +8,10 @@
 - 🌦️ [Weather](https://github.com/782001/weather-algoriza)
 
 - ✅ [TODO](https://github.com/782001/todo-algoriza)
-- - ✅ [TODO](https://github.com/782001/todo-algoriza)
+
+- 💊 [Pharmazool](https://github.com/782001/pharmazool-ui)
+- 💉 [Diseases](https://github.com/782001/Disease)
+- 📖 [quran karim](https://github.com/782001/quran)
 
 - 👨‍💻 All of my projects are available at [https://youtube.com/@abdullahelawadi8394](https://youtube.com/@abdullahelawadi8394)
 
