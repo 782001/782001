@@ -9,7 +9,7 @@
 
 - ✅ [TODO](https://github.com/782001/todo-algoriza)
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/7eda452c/projects](https://youtube.com/@abdullahelawadi8394)
+- 👨‍💻 All of my projects are available at [https://youtube.com/@abdullahelawadi8394](https://youtube.com/@abdullahelawadi8394)
 
 - 📫 You can shoot me an email at **alwdyb641@gmail.com**
 
