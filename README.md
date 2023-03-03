@@ -2,16 +2,16 @@
 <h3 align="center">Flutter Developer 💎</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=782001" alt="782001" /></a> </p>
-
+- 💊 [Pharmazool](https://github.com/782001/pharmazool-ui)
+- 💉 [Diseases](https://github.com/782001/Disease)
+- 📖 [quran karim](https://github.com/782001/quran)
 - 🏨 [BOOKING HOTELS](https://github.com/782001/Booking-App)
 
 - 🌦️ [Weather](https://github.com/782001/weather-algoriza)
 
 - ✅ [TODO](https://github.com/782001/todo-algoriza)
 
-- 💊 [Pharmazool](https://github.com/782001/pharmazool-ui)
-- 💉 [Diseases](https://github.com/782001/Disease)
-- 📖 [quran karim](https://github.com/782001/quran)
+
 
 - 👨‍💻 All of my projects are available at [https://youtube.com/@abdullahelawadi8394](https://youtube.com/@abdullahelawadi8394)
 
