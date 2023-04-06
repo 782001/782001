@@ -15,7 +15,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://youtube.com/@abdullahelawadi8394](https://youtube.com/@abdullahelawadi8394)
+- 👨‍💻 All of my projects are available at [https://youtube.com/@abdullahelawadi](https://youtube.com/@abdullahelawadi)
 
 - 📫 You can shoot me an email at **alwdyb641@gmail.com**
 
