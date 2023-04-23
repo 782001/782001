@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=782001" alt="782001" /></a> </p>
 
-- 💊 [Pharmazool](https://github.com/782001/pharmazool-ui)
 - 🏛 [Easy-Tour](https://github.com/782001/Easy-Tour)
+- 💊 [Pharmazool](https://github.com/782001/pharmazool-ui)
 - 💉 [Diseases](https://github.com/782001/Disease)
 - 📖 [quran karim](https://github.com/782001/quran)
 - 🏨 [BOOKING HOTELS](https://github.com/782001/Booking-App)
