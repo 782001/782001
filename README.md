@@ -3,11 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=782001" alt="782001" /></a> </p>
 
+-  [انطق ولون](https://github.com/782001/lawen)
 - 🕋 [sama3ly](https://github.com/782001/sama3ly)
-- 🏛 [Easy-Tour](https://github.com/782001/Easy-Tour)
-- 💊 [Pharmazool](https://github.com/782001/pharmazool-ui)
+- 🏛 [tourists_guide](https://github.com/782001/tourists_guide)
+- 💊 [Pharmazool](https://github.com/782001/pharmazool)
 - 💉 [Diseases](https://github.com/782001/Disease)
-- 🕌 [quran karim](https://github.com/782001/quran)
+- 🕌 [القرآن الكريم ](https://github.com/782001/quran)
 - 🏨 [BOOKING HOTELS](https://github.com/782001/Booking-App)
 
 - 🌦️ [Weather](https://github.com/782001/weather-algoriza)
