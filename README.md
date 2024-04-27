@@ -4,16 +4,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=782001" alt="782001" /></a> </p>
 
 -  [انطق ولون](https://github.com/782001/lawen)
-- 🕋 [sama3ly](https://github.com/782001/sama3ly)
-- 🏛 [tourists_guide](https://github.com/782001/tourists_guide)
-- 💊 [Pharmazool](https://github.com/782001/pharmazool)
-- 💉 [Diseases](https://github.com/782001/Disease)
-- 🕌 [القرآن الكريم ](https://github.com/782001/quran)
-- 🏨 [BOOKING HOTELS](https://github.com/782001/Booking-App)
+-  [sama3ly](https://github.com/782001/sama3ly)
+-  [tourists_guide](https://github.com/782001/tourists_guide)
+-  [Pharmazool](https://github.com/782001/pharmazool)
+-   [القرآن الكريم ](https://github.com/782001/quran)
+-  [Diseases](https://github.com/782001/Disease)
+  
+-  [BOOKING HOTELS](https://github.com/782001/Booking-App)
 
-- 🌦️ [Weather](https://github.com/782001/weather-algoriza)
+-  [Weather](https://github.com/782001/weather-algoriza)
 
-- ✅ [TODO](https://github.com/782001/todo-algoriza)
+-  [TODO](https://github.com/782001/todo-algoriza)
 
 
 
