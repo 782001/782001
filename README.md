@@ -22,7 +22,7 @@
 
 - 📫 You can shoot me an email at **alwdyb641@gmail.com**
 
-- 📄My Updated CV [https://drive.google.com/file/d/1MQM3tT6IHd62UCyzQT9gOWQVpjX0DE7X/view?usp=drive_link](https://drive.google.com/file/d/1MQM3tT6IHd62UCyzQT9gOWQVpjX0DE7X/view?usp=drive_link)
+- 📄My Updated CV [https://drive.google.com/file/d/1asrfQjrLrJobmviHdzY5YXB_LHF8gl-U/view?usp=drive_link](https://drive.google.com/file/d/1asrfQjrLrJobmviHdzY5YXB_LHF8gl-U/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
