@@ -92,6 +92,12 @@ Developed responsive and high-performing WebView wrappers to seamlessly transiti
 </p>
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=782001&show_icons=true&locale=en&layout=compact" alt="782001" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=782001&show_icons=true&locale=en" alt="782001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=782001&" alt="782001" /></p>
+---
 
 ### 📬 Let's Connect!
 
@@ -101,3 +107,5 @@ Developed responsive and high-performing WebView wrappers to seamlessly transiti
   <a href="https://www.linkedin.com/in/abdullah-elawadi-43031b241"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://782001.github.io/abdullah_elawadi_portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+
