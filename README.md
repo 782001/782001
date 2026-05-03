@@ -1,44 +1,103 @@
-<h1 align="center">Hi 👋, I'm Abdullah Elawadi 👑</h1>
-<h3 align="center">Flutter Developer 💎</h3>
+<h1 align="center">Hi there, I'm Abdllah El-Awadi 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=782001" alt="782001" /></a> </p>
-
--  [انطق ولون](https://github.com/782001/lawen)
--  [sama3ly](https://github.com/782001/sama3ly)
--  [tourists_guide](https://github.com/782001/tourists_guide)
--  [Pharmazool](https://github.com/782001/pharmazool)
--   [القرآن الكريم ](https://github.com/782001/quran)
--  [Diseases](https://github.com/782001/Disease)
-  
--  [BOOKING HOTELS](https://github.com/782001/Booking-App)
-
--  [Weather](https://github.com/782001/weather-algoriza)
-
--  [TODO](https://github.com/782001/todo-algoriza)
-
-
-
-- 👨‍💻 All of my projects are available at [https://youtube.com/@abdullahelawadi](https://youtube.com/@abdullahelawadi)
-
-- 📫 You can shoot me an email at **alwdyb641@gmail.com**
-
-- 📄My Updated CV [https://drive.google.com/file/d/1asrfQjrLrJobmviHdzY5YXB_LHF8gl-U/view?usp=drive_link](https://drive.google.com/file/d/1asrfQjrLrJobmviHdzY5YXB_LHF8gl-U/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdullah-elawadi-43031b241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-elawadi-43031b241/" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/18418924/abdullah-elawadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18418924/abdullah-elawadi" height="30" width="40" /></a> -->
-<a href="https://fb.com/abdullah.alawadi.165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.alawadi.165" height="30" width="40" /></a>
-<!-- <a href="https://www.behance.net/7eda452c/projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="7eda452c/projects" height="30" width="40" /></a> -->
-<!-- <a href="https://youtube.com/@abdullahelawadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjckyqs3souxwdidybw-rya" height="30" width="40" /></a> -->
+<p align="center">
+  <a href="https://github.com/782001">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Mid-Level+Flutter+Developer;3+Years+of+Experience;Clean+Architecture+Advocate;Building+Scalable+Mobile+Apps" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=782001.782001" alt="visitors"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=782001&show_icons=true&locale=en&layout=compact" alt="782001" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=782001&show_icons=true&locale=en" alt="782001" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=782001&" alt="782001" /></p>
+I am a **Mid-Level Flutter Developer** from El Sharqiah, Egypt, with **3 years of experience** (2 years in companies and 1 year as a freelancer) building scalable and high-performance mobile applications. My journey started with intensive training at Algoriza, transitioned into dynamic freelance work, and solidified through enterprise experience at OnCall and BTI.
 
+* 💼 **Experience:** I have successfully contributed to several production-level applications, collaborating within cross-functional teams to deliver efficient, user-focused solutions across domains like e-commerce, healthcare, fitness, and social platforms.
+* 🏗️ **Architecture:** Strong advocate for **Clean Architecture**, **SOLID principles**, and maintainable codebases.
+* 🌐 **Portfolio:** Check out my interactive portfolio [here](https://782001.github.io/abdullah_elawadi_portfolio/).
+* 📫 Reach out via: [alwdy782001@gmail.com](mailto:alwdy782001@gmail.com)
+
+---
+
+### 💼 Work Experience
+
+* **BTI** *(09/2025 – 02/2026)*: Contributed heavily to production apps including **ArtZone**, **Sasco**, **Maksoor**, and built **Maksoor Diagnostic** from scratch.
+* **OnCall** *(07/2024 – 09/2025)*: Developed and maintained multiple applications including **Champ, Shrine, Platinum, Daleel, Monmon**, and several WebView-based apps.
+* **Freelancer** *(10/2022 – 07/2024)*: Delivered multiple end-to-end mobile applications for various clients.
+* **Algoriza (Training)** *(05/2022 – 10/2022)*: Team-based development of weather and hotel booking apps.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+**Advanced Skills:** Clean Architecture • BLoC (Cubit) • OOP & SOLID • Payment Gateway Integration • Google Maps Integration • Pusher Notifications • Hive & Shared Preferences • Deep Linking • Performance Optimization • Responsive UI
+
+---
+
+### 🚀 Production Highlights (Native Apps)
+
+Here are some of the key applications I have developed natively in Flutter and deployed:
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| 🎨 **ArtZone** | A marketplace platform connecting clients with makeup artists and photographers. | [App Store](https://apps.apple.com/us/app/artzone-%D8%A3%D8%B1%D8%AA-%D8%B2%D9%88%D9%86/id6737238452) • [Play Store](https://play.google.com/store/apps/details?id=com.artzone.sa) <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/9a955a36-63d3-4a20-aa67-45b88007bc4d) |
+| ⚽ **Champ** | A football fans app to vote for teams, follow rankings, and chat with other fans. | [Play Store](https://play.google.com/store/apps/details?id=com.fuad.champ) <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/e90b96d2-2de1-4405-981b-b3b9b216e3d0) |
+| 🏢 **Daleel** | An e-commerce app showcasing companies, detailed services, and categorized listings. | [Play Store](https://play.google.com/store/apps/details?id=com.company.daleel) <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/82d22f88-2c42-4101-a4ae-58093ed15946) |
+| 🕊️ **Shrine** | A memorial app where users can add deceased loved ones and dedicate flowers. | [Play Store](https://play.google.com/store/apps/details?id=com.oncall.shrineapp) <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/7f945906-d9df-43a8-84c7-d3a5c068b9b7) |
+| 📖 **القرآن الكريم** | A highly optimized application for reading the Holy Quran smoothly. | [Play Store](https://play.google.com/store/apps/details?id=com.quran.quran_v3) <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/5266c4b0-a1dd-4c79-a7fe-dbbb89fd05ac) |
+| 🏋️ **Platinum** | A fitness membership app integrating payment gateways for gym subscriptions. | [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/eb320733-11cf-419d-ac1d-1a3f4e342a54) |
+| 📱 **Maksoor** | A suite of apps checking Android/iOS health and facilitating local service requests. | [Demo Video](https://drive.google.com/file/d/1tA_Dyx_fVJRU7xQarBlwGBzz8mstQxVB/view) <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/c27ed2e8-41ca-425e-b857-f49207df28ca) |
+| ⛽ **Sasco** | An app allowing users to submit reports about Sasco stations in Saudi Arabia. | [Demo Video](https://drive.google.com/file/d/1tA_Dyx_fVJRU7xQarBlwGBzz8mstQxVB/view) <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/237a640f-80ab-4fe7-bb8a-37a5222320f0) |
+
+---
+
+### 🌐 Web View Projects
+
+Developed responsive and high-performing WebView wrappers to seamlessly transition web experiences to mobile applications:
+| Project | Links |
+|---------|-------|
+| **CustomerCloud:** | [Play Store](https://play.google.com/store/apps/details?id=com.customercloudhq.android) • <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/76d7471d-a317-41b8-9ca2-628557c8acfd)
+| **MonMon ﻣﻮں ﻣﻮں:**  | [Play Store](https://play.google.com/store/apps/details?id=com.monmonapp.android) • <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/4be82b07-5a8e-478b-83c1-ea6e66653b73)
+| **Pet Center:**  | [Play Store](https://play.google.com/store/apps/details?id=com.petcenterapp.mobileapp) • <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/28f2032d-f87c-4594-92f8-acd480e8fd7e)
+| **Jumla Center:**  | [Play Store](https://play.google.com/store/apps/details?id=com.jumlacenter.mobileapp) • <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/3d3899d4-495c-4982-b91c-390aead6ee36)
+| **Pet Planet:**  | [Play Store](https://play.google.com/store/apps/details?id=com.petplanetstore.android) • <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/f1a40a13-2c30-4f05-9c58-662dc021d3dd)
+| **Freej Swaeleh ﻓﺮﯾﺞ ﺻﻮﯾﻠﺢ:**  | [Play Store](https://play.google.com/store/apps/details?id=com.freejswaileh.mobileapp) • <br> [🌐 Overview](https://782001.github.io/abdullah_elawadi_portfolio/#/project/54743d31-9b65-492f-97b8-73bc1e6ea8e0)
+
+---
+
+### 📈 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=782001&theme=react-dark&hide_border=true&bg_color=0D1117&color=0078D7&line=02569B&point=FFFFFF" alt="Abdllah's GitHub Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=782001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0078D7&text_color=C9D1D9&icon_color=0078D7" alt="Abdllah's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=782001&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0078D7&text_color=C9D1D9&langs_count=4" alt="Top Langs" height="192px"/>
+</p>
+
+---
+
+### 📬 Let's Connect!
+
+<p align="center">
+  <a href="mailto:alwdy782001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/201028341201"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-elawadi-43031b241"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://782001.github.io/abdullah_elawadi_portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+</p>
